@@ -1,0 +1,25 @@
+<template>
+    <div class="width-container">
+        <!-- <video width="100%" controls class="video">
+            <source src="../assets/useEvey.mp4" type="video/mp4">
+            Your browser does not support HTML video.
+        </video> -->
+        <h2>How to Use Evey App</h2>
+        <ul>
+            <li><b>Step 1:</b> Click on the purple app icon called Evey.</li>
+            <li><b>Step 2:</b> Make sure you are on the Check-in tab and start scanning.</li>
+            <li><b>Step 3:</b> Click on the green Check-In button to check somone in.</li>
+            <li><b>Note:</b> The Scan tab is only for scanning with a phone camera, not a scanner.</li>
+        </ul>
+    </div>
+</template>
+
+<script>
+export default {
+    
+}
+</script>
+
+<style scoped>
+
+</style>
